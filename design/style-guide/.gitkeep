@@ -1,0 +1,13 @@
+# Style Guide
+
+UI/UX design system and style guide for the Hindu Hate Index platform.
+
+Should include:
+- Color palette (neutral base, accent colors)
+- Typography scale (headings, body text, data labels)
+- Spacing system (8px grid)
+- Component library (cards, buttons, forms, navigation)
+- Icon set
+- Responsive breakpoints
+- Accessibility guidelines (WCAG 2.1 Level AA)
+- Data visualization color schemes (colorblind-accessible)

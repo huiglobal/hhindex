@@ -1,0 +1,472 @@
+{
+  "campaigns": [
+    {
+      "id": "CMP-001",
+      "name": "Coordinated Campaign 1 - Media Bias",
+      "status": "active",
+      "detectedAt": "2026-01-14T00:11:55.012699Z",
+      "category": "political_weaponization",
+      "description": "Coordinated campaign detected across multiple platforms and sources",
+      "sourceCount": 11,
+      "incidentCount": 4,
+      "relatedIncidents": [
+        "INC-2024-003",
+        "INC-2024-042",
+        "INC-2024-087",
+        "INC-2024-112"
+      ],
+      "relatedSources": [
+        "SRC-019",
+        "SRC-048",
+        "SRC-007",
+        "SRC-017",
+        "SRC-007"
+      ],
+      "regions": [
+        "India",
+        "UK"
+      ],
+      "themes": [
+        "cultural_suppression",
+        "political_weaponization"
+      ],
+      "severityAverage": 8.3,
+      "escalationTrend": "decreasing",
+      "timeline": [
+        {
+          "date": "2026-03-08",
+          "incidentCount": 8,
+          "description": "Activity on day 0"
+        },
+        {
+          "date": "2026-03-05",
+          "incidentCount": 7,
+          "description": "Activity on day 3"
+        },
+        {
+          "date": "2026-03-02",
+          "incidentCount": 7,
+          "description": "Activity on day 6"
+        },
+        {
+          "date": "2026-02-27",
+          "incidentCount": 4,
+          "description": "Activity on day 9"
+        },
+        {
+          "date": "2026-02-24",
+          "incidentCount": 8,
+          "description": "Activity on day 12"
+        }
+      ]
+    },
+    {
+      "id": "CMP-002",
+      "name": "Coordinated Campaign 2 - Media Bias",
+      "status": "resolved",
+      "detectedAt": "2026-01-22T00:11:55.012699Z",
+      "category": "political_weaponization",
+      "description": "Coordinated campaign detected across multiple platforms and sources",
+      "sourceCount": 13,
+      "incidentCount": 4,
+      "relatedIncidents": [
+        "INC-2024-007",
+        "INC-2024-080",
+        "INC-2024-092",
+        "INC-2024-100"
+      ],
+      "relatedSources": [
+        "SRC-028",
+        "SRC-041",
+        "SRC-012",
+        "SRC-041",
+        "SRC-013"
+      ],
+      "regions": [
+        "India",
+        "USA"
+      ],
+      "themes": [
+        "political_weaponization",
+        "digital_ideological_warfare"
+      ],
+      "severityAverage": 8.4,
+      "escalationTrend": "stable",
+      "timeline": [
+        {
+          "date": "2026-03-08",
+          "incidentCount": 7,
+          "description": "Activity on day 0"
+        },
+        {
+          "date": "2026-03-05",
+          "incidentCount": 3,
+          "description": "Activity on day 3"
+        },
+        {
+          "date": "2026-03-02",
+          "incidentCount": 5,
+          "description": "Activity on day 6"
+        },
+        {
+          "date": "2026-02-27",
+          "incidentCount": 2,
+          "description": "Activity on day 9"
+        },
+        {
+          "date": "2026-02-24",
+          "incidentCount": 4,
+          "description": "Activity on day 12"
+        }
+      ]
+    },
+    {
+      "id": "CMP-003",
+      "name": "Coordinated Campaign 3 - Social Media",
+      "status": "monitoring",
+      "detectedAt": "2026-01-22T00:11:55.012699Z",
+      "category": "digital_ideological_warfare",
+      "description": "Coordinated campaign detected across multiple platforms and sources",
+      "sourceCount": 7,
+      "incidentCount": 3,
+      "relatedIncidents": [
+        "INC-2024-040",
+        "INC-2024-060",
+        "INC-2024-088"
+      ],
+      "relatedSources": [
+        "SRC-002",
+        "SRC-004",
+        "SRC-039",
+        "SRC-043",
+        "SRC-023",
+        "SRC-046",
+        "SRC-017"
+      ],
+      "regions": [
+        "Australia",
+        "UK",
+        "India"
+      ],
+      "themes": [
+        "digital_ideological_warfare"
+      ],
+      "severityAverage": 7.3,
+      "escalationTrend": "decreasing",
+      "timeline": [
+        {
+          "date": "2026-03-08",
+          "incidentCount": 7,
+          "description": "Activity on day 0"
+        },
+        {
+          "date": "2026-03-05",
+          "incidentCount": 8,
+          "description": "Activity on day 3"
+        },
+        {
+          "date": "2026-03-02",
+          "incidentCount": 4,
+          "description": "Activity on day 6"
+        },
+        {
+          "date": "2026-02-27",
+          "incidentCount": 8,
+          "description": "Activity on day 9"
+        },
+        {
+          "date": "2026-02-24",
+          "incidentCount": 3,
+          "description": "Activity on day 12"
+        }
+      ]
+    },
+    {
+      "id": "CMP-004",
+      "name": "Coordinated Campaign 4 - Social Media",
+      "status": "active",
+      "detectedAt": "2026-02-07T00:11:55.013700Z",
+      "category": "digital_ideological_warfare",
+      "description": "Coordinated campaign detected across multiple platforms and sources",
+      "sourceCount": 15,
+      "incidentCount": 1,
+      "relatedIncidents": [
+        "INC-2024-116"
+      ],
+      "relatedSources": [
+        "SRC-018",
+        "SRC-029",
+        "SRC-011",
+        "SRC-004",
+        "SRC-032",
+        "SRC-006"
+      ],
+      "regions": [
+        "UK",
+        "Australia",
+        "USA",
+        "India"
+      ],
+      "themes": [
+        "cultural_suppression",
+        "political_weaponization"
+      ],
+      "severityAverage": 7.9,
+      "escalationTrend": "increasing",
+      "timeline": [
+        {
+          "date": "2026-03-08",
+          "incidentCount": 6,
+          "description": "Activity on day 0"
+        },
+        {
+          "date": "2026-03-05",
+          "incidentCount": 8,
+          "description": "Activity on day 3"
+        },
+        {
+          "date": "2026-03-02",
+          "incidentCount": 2,
+          "description": "Activity on day 6"
+        },
+        {
+          "date": "2026-02-27",
+          "incidentCount": 2,
+          "description": "Activity on day 9"
+        },
+        {
+          "date": "2026-02-24",
+          "incidentCount": 6,
+          "description": "Activity on day 12"
+        }
+      ]
+    },
+    {
+      "id": "CMP-005",
+      "name": "Coordinated Campaign 5 - Social Media",
+      "status": "active",
+      "detectedAt": "2026-02-03T00:11:55.013700Z",
+      "category": "political_weaponization",
+      "description": "Coordinated campaign detected across multiple platforms and sources",
+      "sourceCount": 12,
+      "incidentCount": 2,
+      "relatedIncidents": [
+        "INC-2024-054",
+        "INC-2024-078"
+      ],
+      "relatedSources": [
+        "SRC-048",
+        "SRC-017",
+        "SRC-045"
+      ],
+      "regions": [
+        "Australia",
+        "Canada"
+      ],
+      "themes": [
+        "political_weaponization",
+        "digital_ideological_warfare"
+      ],
+      "severityAverage": 8.3,
+      "escalationTrend": "increasing",
+      "timeline": [
+        {
+          "date": "2026-03-08",
+          "incidentCount": 8,
+          "description": "Activity on day 0"
+        },
+        {
+          "date": "2026-03-05",
+          "incidentCount": 5,
+          "description": "Activity on day 3"
+        },
+        {
+          "date": "2026-03-02",
+          "incidentCount": 7,
+          "description": "Activity on day 6"
+        },
+        {
+          "date": "2026-02-27",
+          "incidentCount": 7,
+          "description": "Activity on day 9"
+        },
+        {
+          "date": "2026-02-24",
+          "incidentCount": 4,
+          "description": "Activity on day 12"
+        }
+      ]
+    },
+    {
+      "id": "CMP-006",
+      "name": "Coordinated Campaign 6 - Social Media",
+      "status": "active",
+      "detectedAt": "2026-01-21T00:11:55.013700Z",
+      "category": "digital_ideological_warfare",
+      "description": "Coordinated campaign detected across multiple platforms and sources",
+      "sourceCount": 9,
+      "incidentCount": 14,
+      "relatedIncidents": [],
+      "relatedSources": [
+        "SRC-018",
+        "SRC-006",
+        "SRC-002",
+        "SRC-047",
+        "SRC-028",
+        "SRC-044",
+        "SRC-046",
+        "SRC-040"
+      ],
+      "regions": [
+        "UK",
+        "India"
+      ],
+      "themes": [
+        "digital_ideological_warfare",
+        "political_weaponization"
+      ],
+      "severityAverage": 7.0,
+      "escalationTrend": "decreasing",
+      "timeline": [
+        {
+          "date": "2026-03-08",
+          "incidentCount": 7,
+          "description": "Activity on day 0"
+        },
+        {
+          "date": "2026-03-05",
+          "incidentCount": 8,
+          "description": "Activity on day 3"
+        },
+        {
+          "date": "2026-03-02",
+          "incidentCount": 3,
+          "description": "Activity on day 6"
+        },
+        {
+          "date": "2026-02-27",
+          "incidentCount": 3,
+          "description": "Activity on day 9"
+        },
+        {
+          "date": "2026-02-24",
+          "incidentCount": 5,
+          "description": "Activity on day 12"
+        }
+      ]
+    },
+    {
+      "id": "CMP-007",
+      "name": "Coordinated Campaign 7 - Social Media",
+      "status": "monitoring",
+      "detectedAt": "2026-02-24T00:11:55.013700Z",
+      "category": "political_weaponization",
+      "description": "Coordinated campaign detected across multiple platforms and sources",
+      "sourceCount": 12,
+      "incidentCount": 11,
+      "relatedIncidents": [],
+      "relatedSources": [
+        "SRC-003",
+        "SRC-031",
+        "SRC-048",
+        "SRC-038",
+        "SRC-038"
+      ],
+      "regions": [
+        "USA",
+        "India"
+      ],
+      "themes": [
+        "cultural_suppression",
+        "digital_ideological_warfare"
+      ],
+      "severityAverage": 8.3,
+      "escalationTrend": "decreasing",
+      "timeline": [
+        {
+          "date": "2026-03-08",
+          "incidentCount": 3,
+          "description": "Activity on day 0"
+        },
+        {
+          "date": "2026-03-05",
+          "incidentCount": 4,
+          "description": "Activity on day 3"
+        },
+        {
+          "date": "2026-03-02",
+          "incidentCount": 2,
+          "description": "Activity on day 6"
+        },
+        {
+          "date": "2026-02-27",
+          "incidentCount": 7,
+          "description": "Activity on day 9"
+        },
+        {
+          "date": "2026-02-24",
+          "incidentCount": 3,
+          "description": "Activity on day 12"
+        }
+      ]
+    },
+    {
+      "id": "CMP-008",
+      "name": "Coordinated Campaign 8 - Social Media",
+      "status": "active",
+      "detectedAt": "2026-01-22T00:11:55.013700Z",
+      "category": "civilizational_attacks",
+      "description": "Coordinated campaign detected across multiple platforms and sources",
+      "sourceCount": 6,
+      "incidentCount": 2,
+      "relatedIncidents": [
+        "INC-2024-009",
+        "INC-2024-111"
+      ],
+      "relatedSources": [
+        "SRC-046",
+        "SRC-023",
+        "SRC-029",
+        "SRC-045"
+      ],
+      "regions": [
+        "India",
+        "Australia",
+        "UK"
+      ],
+      "themes": [
+        "cultural_suppression",
+        "digital_ideological_warfare"
+      ],
+      "severityAverage": 8.4,
+      "escalationTrend": "decreasing",
+      "timeline": [
+        {
+          "date": "2026-03-08",
+          "incidentCount": 7,
+          "description": "Activity on day 0"
+        },
+        {
+          "date": "2026-03-05",
+          "incidentCount": 2,
+          "description": "Activity on day 3"
+        },
+        {
+          "date": "2026-03-02",
+          "incidentCount": 4,
+          "description": "Activity on day 6"
+        },
+        {
+          "date": "2026-02-27",
+          "incidentCount": 2,
+          "description": "Activity on day 9"
+        },
+        {
+          "date": "2026-02-24",
+          "incidentCount": 7,
+          "description": "Activity on day 12"
+        }
+      ]
+    }
+  ]
+}

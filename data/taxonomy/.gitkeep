@@ -1,0 +1,11 @@
+# Taxonomy
+
+Hate incident taxonomy definitions and categorization rules.
+
+Should include:
+- 8 primary categories (Religious Persecution, Civilizational Attacks, Cultural Suppression, etc.)
+- Subcategories for each primary category
+- Severity scoring rubrics (1-10 scale)
+- Examples for each category
+- Edge case handling guidelines
+- Geographic and cultural context considerations

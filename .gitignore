@@ -1,0 +1,150 @@
+# Dependencies
+node_modules/
+platform/frontend/node_modules/
+platform/backend/node_modules/
+platform/ai-components/node_modules/
+
+# Build outputs
+platform/frontend/dist/
+platform/frontend/build/
+platform/backend/dist/
+platform/backend/build/
+platform/ai-components/dist/
+platform/ai-components/build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+platform/frontend/.env
+platform/backend/.env
+platform/ai-components/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*~
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+platform/frontend/coverage/
+platform/backend/coverage/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+.parcel-cache/
+.vite/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python (for AI components)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Documentation build outputs
+docs/executive-summary/*.pdf
+docs/executive-summary/*.html
+!docs/executive-summary/hindu-hate-index-executive-summary.html
+digital-research-infra/core/*.pdf
+!digital-research-infra/core/infrastructure-proposal.pdf
+digital-research-infra/core/*.err
+digital-research-infra/core/*.aux
+digital-research-infra/core/*.log
+digital-research-infra/core/*.out
+digital-research-infra/core/*.toc
+
+# Generated images (keep originals)
+digital-research-infra/core/images/mermaid-*.png
+
+# Database files (if any local DBs)
+*.db
+*.sqlite
+*.sqlite3
+
+# Package manager lock files (optional - uncomment if you want to ignore)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# TypeScript
+*.tsbuildinfo
+
+# ESLint cache
+.eslintcache
+
+# Stylelint cache
+.stylelintcache
+
+# Playwright
+platform/frontend/test-results/
+platform/frontend/playwright-report/
+platform/frontend/playwright/.cache/
+
+# Local development
+.local/
+*.local
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Mock data (uncomment if you don't want to commit mock data)
+# platform/frontend/src/api/mock/data/*.json
+
+# Sensitive data
+secrets/
+*.key
+*.pem
+*.cert
+*.crt
+
+# IDE-specific
+.fleet/
+.project
+.classpath
+.settings/
+*.iml

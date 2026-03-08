@@ -1,0 +1,511 @@
+{
+  "alerts": [
+    {
+      "id": "ALT-001",
+      "type": "geographic_hotspot",
+      "severity": "info",
+      "title": "Alert: Geographic Hotspot Detected",
+      "description": "Description of geographic_hotspot alert with relevant details",
+      "createdAt": "2026-02-24T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-033",
+        "INC-2024-071"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 14,
+        "percentageChange": 27.1,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-002",
+      "type": "coordinated_campaign",
+      "severity": "critical",
+      "title": "Alert: Coordinated Campaign Detected",
+      "description": "Description of coordinated_campaign alert with relevant details",
+      "createdAt": "2026-02-23T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-091",
+        "INC-2024-008"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 7,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-003",
+      "type": "source_reactivation",
+      "severity": "info",
+      "title": "Alert: Source Reactivation Detected",
+      "description": "Description of source_reactivation alert with relevant details",
+      "createdAt": "2026-02-17T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-062",
+        "INC-2024-117"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 13,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-004",
+      "type": "source_reactivation",
+      "severity": "warning",
+      "title": "Alert: Source Reactivation Detected",
+      "description": "Description of source_reactivation alert with relevant details",
+      "createdAt": "2026-02-27T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-026",
+        "INC-2024-108",
+        "INC-2024-039",
+        "INC-2024-036",
+        "INC-2024-032"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 18,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-005",
+      "type": "geographic_hotspot",
+      "severity": "info",
+      "title": "Alert: Geographic Hotspot Detected",
+      "description": "Description of geographic_hotspot alert with relevant details",
+      "createdAt": "2026-02-11T00:11:55.011701Z",
+      "regionId": "REG-PAK",
+      "relatedIncidents": [
+        "INC-2024-109",
+        "INC-2024-082",
+        "INC-2024-085",
+        "INC-2024-061"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 8,
+        "percentageChange": 23.3,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-006",
+      "type": "coordinated_campaign",
+      "severity": "info",
+      "title": "Alert: Coordinated Campaign Detected",
+      "description": "Description of coordinated_campaign alert with relevant details",
+      "createdAt": "2026-02-21T00:11:55.011701Z",
+      "regionId": "REG-IND",
+      "relatedIncidents": [
+        "INC-2024-083",
+        "INC-2024-097",
+        "INC-2024-007",
+        "INC-2024-009",
+        "INC-2024-101"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 11,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-007",
+      "type": "source_reactivation",
+      "severity": "info",
+      "title": "Alert: Source Reactivation Detected",
+      "description": "Description of source_reactivation alert with relevant details",
+      "createdAt": "2026-02-20T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-007",
+        "INC-2024-038"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 13,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-008",
+      "type": "escalation_risk",
+      "severity": "warning",
+      "title": "Alert: Escalation Risk Detected",
+      "description": "Description of escalation_risk alert with relevant details",
+      "createdAt": "2026-02-26T00:11:55.011701Z",
+      "regionId": "REG-IND",
+      "relatedIncidents": [
+        "INC-2024-052",
+        "INC-2024-036",
+        "INC-2024-103",
+        "INC-2024-094",
+        "INC-2024-086"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 12,
+        "percentageChange": null,
+        "riskLevel": "low"
+      }
+    },
+    {
+      "id": "ALT-009",
+      "type": "escalation_risk",
+      "severity": "critical",
+      "title": "Alert: Escalation Risk Detected",
+      "description": "Description of escalation_risk alert with relevant details",
+      "createdAt": "2026-02-17T00:11:55.011701Z",
+      "regionId": "REG-GBR",
+      "relatedIncidents": [
+        "INC-2024-074",
+        "INC-2024-041",
+        "INC-2024-104"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 14,
+        "percentageChange": null,
+        "riskLevel": "medium"
+      }
+    },
+    {
+      "id": "ALT-010",
+      "type": "escalation_risk",
+      "severity": "critical",
+      "title": "Alert: Escalation Risk Detected",
+      "description": "Description of escalation_risk alert with relevant details",
+      "createdAt": "2026-02-11T00:11:55.011701Z",
+      "regionId": "REG-PAK",
+      "relatedIncidents": [
+        "INC-2024-090",
+        "INC-2024-082",
+        "INC-2024-113"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 17,
+        "percentageChange": null,
+        "riskLevel": "low"
+      }
+    },
+    {
+      "id": "ALT-011",
+      "type": "geographic_hotspot",
+      "severity": "info",
+      "title": "Alert: Geographic Hotspot Detected",
+      "description": "Description of geographic_hotspot alert with relevant details",
+      "createdAt": "2026-02-28T00:11:55.011701Z",
+      "regionId": "REG-BGD",
+      "relatedIncidents": [
+        "INC-2024-037",
+        "INC-2024-045"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 5,
+        "percentageChange": 29.7,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-012",
+      "type": "coordinated_campaign",
+      "severity": "critical",
+      "title": "Alert: Coordinated Campaign Detected",
+      "description": "Description of coordinated_campaign alert with relevant details",
+      "createdAt": "2026-02-21T00:11:55.011701Z",
+      "regionId": "REG-IND",
+      "relatedIncidents": [
+        "INC-2024-093",
+        "INC-2024-022",
+        "INC-2024-020"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 12,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-013",
+      "type": "geographic_hotspot",
+      "severity": "critical",
+      "title": "Alert: Geographic Hotspot Detected",
+      "description": "Description of geographic_hotspot alert with relevant details",
+      "createdAt": "2026-02-21T00:11:55.011701Z",
+      "regionId": "REG-GBR",
+      "relatedIncidents": [
+        "INC-2024-037",
+        "INC-2024-107",
+        "INC-2024-105"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 9,
+        "percentageChange": 24.4,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-014",
+      "type": "coordinated_campaign",
+      "severity": "info",
+      "title": "Alert: Coordinated Campaign Detected",
+      "description": "Description of coordinated_campaign alert with relevant details",
+      "createdAt": "2026-02-20T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-049",
+        "INC-2024-088",
+        "INC-2024-050",
+        "INC-2024-065"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 7,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-015",
+      "type": "escalation_risk",
+      "severity": "critical",
+      "title": "Alert: Escalation Risk Detected",
+      "description": "Description of escalation_risk alert with relevant details",
+      "createdAt": "2026-02-10T00:11:55.011701Z",
+      "regionId": "REG-BGD",
+      "relatedIncidents": [
+        "INC-2024-078",
+        "INC-2024-064",
+        "INC-2024-069",
+        "INC-2024-094",
+        "INC-2024-036"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 12,
+        "percentageChange": null,
+        "riskLevel": "critical"
+      }
+    },
+    {
+      "id": "ALT-016",
+      "type": "geographic_hotspot",
+      "severity": "critical",
+      "title": "Alert: Geographic Hotspot Detected",
+      "description": "Description of geographic_hotspot alert with relevant details",
+      "createdAt": "2026-02-16T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-024",
+        "INC-2024-051"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 9,
+        "percentageChange": 35.7,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-017",
+      "type": "geographic_hotspot",
+      "severity": "warning",
+      "title": "Alert: Geographic Hotspot Detected",
+      "description": "Description of geographic_hotspot alert with relevant details",
+      "createdAt": "2026-03-07T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-054",
+        "INC-2024-057",
+        "INC-2024-064"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 6,
+        "percentageChange": 31.7,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-018",
+      "type": "coordinated_campaign",
+      "severity": "warning",
+      "title": "Alert: Coordinated Campaign Detected",
+      "description": "Description of coordinated_campaign alert with relevant details",
+      "createdAt": "2026-02-24T00:11:55.011701Z",
+      "regionId": "REG-IND",
+      "relatedIncidents": [
+        "INC-2024-088",
+        "INC-2024-002"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 5,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-019",
+      "type": "geographic_hotspot",
+      "severity": "critical",
+      "title": "Alert: Geographic Hotspot Detected",
+      "description": "Description of geographic_hotspot alert with relevant details",
+      "createdAt": "2026-02-13T00:11:55.011701Z",
+      "regionId": "REG-PAK",
+      "relatedIncidents": [
+        "INC-2024-100",
+        "INC-2024-024",
+        "INC-2024-011",
+        "INC-2024-001",
+        "INC-2024-050"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 16,
+        "percentageChange": 40.0,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-020",
+      "type": "source_reactivation",
+      "severity": "warning",
+      "title": "Alert: Source Reactivation Detected",
+      "description": "Description of source_reactivation alert with relevant details",
+      "createdAt": "2026-03-03T00:11:55.011701Z",
+      "regionId": "REG-BGD",
+      "relatedIncidents": [
+        "INC-2024-017",
+        "INC-2024-046",
+        "INC-2024-035"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 6,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-021",
+      "type": "geographic_hotspot",
+      "severity": "critical",
+      "title": "Alert: Geographic Hotspot Detected",
+      "description": "Description of geographic_hotspot alert with relevant details",
+      "createdAt": "2026-03-02T00:11:55.011701Z",
+      "regionId": "REG-IND",
+      "relatedIncidents": [
+        "INC-2024-085",
+        "INC-2024-017",
+        "INC-2024-032",
+        "INC-2024-040",
+        "INC-2024-023"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 7,
+        "percentageChange": 37.1,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-022",
+      "type": "coordinated_campaign",
+      "severity": "critical",
+      "title": "Alert: Coordinated Campaign Detected",
+      "description": "Description of coordinated_campaign alert with relevant details",
+      "createdAt": "2026-02-10T00:11:55.011701Z",
+      "regionId": "REG-BGD",
+      "relatedIncidents": [
+        "INC-2024-085",
+        "INC-2024-087",
+        "INC-2024-066",
+        "INC-2024-118"
+      ],
+      "acknowledged": true,
+      "metadata": {
+        "incidentCount": 17,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-023",
+      "type": "escalation_risk",
+      "severity": "warning",
+      "title": "Alert: Escalation Risk Detected",
+      "description": "Description of escalation_risk alert with relevant details",
+      "createdAt": "2026-02-14T00:11:55.011701Z",
+      "regionId": "REG-PAK",
+      "relatedIncidents": [
+        "INC-2024-035",
+        "INC-2024-105"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 18,
+        "percentageChange": null,
+        "riskLevel": "low"
+      }
+    },
+    {
+      "id": "ALT-024",
+      "type": "coordinated_campaign",
+      "severity": "warning",
+      "title": "Alert: Coordinated Campaign Detected",
+      "description": "Description of coordinated_campaign alert with relevant details",
+      "createdAt": "2026-02-22T00:11:55.011701Z",
+      "regionId": "REG-USA",
+      "relatedIncidents": [
+        "INC-2024-023",
+        "INC-2024-054"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 5,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    },
+    {
+      "id": "ALT-025",
+      "type": "source_reactivation",
+      "severity": "critical",
+      "title": "Alert: Source Reactivation Detected",
+      "description": "Description of source_reactivation alert with relevant details",
+      "createdAt": "2026-02-19T00:11:55.011701Z",
+      "regionId": "REG-BGD",
+      "relatedIncidents": [
+        "INC-2024-032",
+        "INC-2024-001",
+        "INC-2024-026",
+        "INC-2024-097"
+      ],
+      "acknowledged": false,
+      "metadata": {
+        "incidentCount": 16,
+        "percentageChange": null,
+        "riskLevel": null
+      }
+    }
+  ]
+}

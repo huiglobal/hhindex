@@ -1,0 +1,18 @@
+# Image Assets Directory
+
+This directory contains image assets for the Hindu Hate Index platform.
+
+## Structure
+
+- `/logos` - Platform logos and branding
+- `/icons` - Custom icons and graphics
+- `/illustrations` - Illustrations and decorative images
+- `/photos` - Photographs and real images
+- `/backgrounds` - Background images and patterns
+
+## Guidelines
+
+- Use WebP format for better compression when possible
+- Provide multiple sizes for responsive images
+- Use descriptive filenames (e.g., `hero-background-1920x1080.webp`)
+- Optimize images before adding them to the repository

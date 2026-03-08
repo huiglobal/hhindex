@@ -1,0 +1,1316 @@
+{
+  "articles": [
+    {
+      "id": "ART-001",
+      "title": "Rising Patterns of Digital Hate: A Comprehensive Analysis of Online Anti-Hindu Rhetoric",
+      "subtitle": "Examining the evolution of hate speech on social media platforms",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This comprehensive study examines the alarming rise of coordinated anti-Hindu campaigns across major social media platforms, revealing systematic patterns of digital hate speech and their real-world implications.",
+      "author": {
+        "id": "AUTHOR-001",
+        "name": "Dr. Priya Sharma",
+        "credentials": "PhD in Digital Sociology, Oxford University",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=PriyaSharma"
+      },
+      "publishedAt": "2025-11-18T00:11:55.006708Z",
+      "updatedAt": "2026-02-18T00:11:55.006708Z",
+      "readingTime": 18,
+      "featuredImage": "/assets/images/photos/Gemini_Generated_Image_7yf7537yf7537yf7.png",
+      "tags": [
+        "analysis",
+        "research",
+        "policy",
+        "trends",
+        "south-asia"
+      ],
+      "category": "Analysis",
+      "featured": true,
+      "relatedIncidents": [
+        "INC-2024-111",
+        "INC-2024-065"
+      ],
+      "relatedArticles": [
+        "ART-034",
+        "ART-009"
+      ],
+      "views": 8045,
+      "shares": 419
+    },
+    {
+      "id": "ART-002",
+      "title": "Temple Desecrations in Bangladesh: A Pattern of Religious Persecution",
+      "subtitle": "Documenting systematic attacks on Hindu places of worship",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "An investigative report documenting the systematic targeting of Hindu temples in Bangladesh, revealing patterns of organized violence and the failure of protective mechanisms.",
+      "author": {
+        "id": "AUTHOR-002",
+        "name": "Rajesh Kumar",
+        "credentials": "Investigative Journalist, Former BBC Correspondent",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=RajeshKumar"
+      },
+      "publishedAt": "2025-09-17T00:11:55.007700Z",
+      "updatedAt": "2026-02-17T00:11:55.007700Z",
+      "readingTime": 20,
+      "featuredImage": "/assets/images/photos/Gemini_Generated_Image_d8l07sd8l07sd8l0.png",
+      "tags": [
+        "diaspora",
+        "trends",
+        "south-asia",
+        "policy",
+        "research"
+      ],
+      "category": "Investigative",
+      "featured": true,
+      "relatedIncidents": [
+        "INC-2024-112",
+        "INC-2024-066"
+      ],
+      "relatedArticles": [
+        "ART-022"
+      ],
+      "views": 3429,
+      "shares": 354
+    },
+    {
+      "id": "ART-003",
+      "title": "The Diaspora Experience: Anti-Hindu Discrimination in Western Universities",
+      "subtitle": "Academic institutions and the rise of Hinduphobia",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines the growing trend of anti-Hindu bias in Western academic institutions, documenting cases of discrimination against Hindu students and faculty members.",
+      "author": {
+        "id": "AUTHOR-003",
+        "name": "Dr. Anita Desai",
+        "credentials": "PhD in Cultural Studies, Stanford University",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=AnitaDesai"
+      },
+      "publishedAt": "2026-01-18T00:11:55.007700Z",
+      "updatedAt": "2026-02-28T00:11:55.007700Z",
+      "readingTime": 5,
+      "featuredImage": "/assets/images/photos/Gemini_Generated_Image_kkmq13kkmq13kkmq.png",
+      "tags": [
+        "research",
+        "trends",
+        "diaspora"
+      ],
+      "category": "News",
+      "featured": true,
+      "relatedIncidents": [
+        "INC-2024-097",
+        "INC-2024-028",
+        "INC-2024-113",
+        "INC-2024-037",
+        "INC-2024-082"
+      ],
+      "relatedArticles": [
+        "ART-004",
+        "ART-011"
+      ],
+      "views": 4939,
+      "shares": 964
+    },
+    {
+      "id": "ART-004",
+      "title": "Cultural Appropriation vs. Cultural Erasure: The Hindu Identity Crisis",
+      "subtitle": "How Hindu symbols are commodified while Hindu voices are silenced",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "An opinion piece exploring the paradox of Hindu cultural symbols being appropriated for commercial gain while Hindu communities face systematic erasure and discrimination.",
+      "author": {
+        "id": "AUTHOR-004",
+        "name": "Vikram Patel",
+        "credentials": "Cultural Commentator, Author of 'The Hindu Voice'",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=VikramPatel"
+      },
+      "publishedAt": "2025-10-07T00:11:55.007700Z",
+      "updatedAt": "2026-02-20T00:11:55.007700Z",
+      "readingTime": 7,
+      "featuredImage": "/assets/images/photos/Gemini_Generated_Image_7yf7537yf7537yf7.png",
+      "tags": [
+        "trends",
+        "policy",
+        "south-asia",
+        "diaspora"
+      ],
+      "category": "Opinion",
+      "featured": true,
+      "relatedIncidents": [
+        "INC-2024-011",
+        "INC-2024-092"
+      ],
+      "relatedArticles": [
+        "ART-001",
+        "ART-023"
+      ],
+      "views": 6670,
+      "shares": 842
+    },
+    {
+      "id": "ART-005",
+      "title": "Pakistan's Forced Conversions: The Untold Stories of Hindu Girls",
+      "subtitle": "Investigating systematic abduction and conversion of Hindu minors",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "A detailed analysis of the systematic abduction, forced conversion, and marriage of Hindu girls in Pakistan, examining legal failures and international silence on this human rights crisis.",
+      "author": {
+        "id": "AUTHOR-005",
+        "name": "Dr. Meera Nanda",
+        "credentials": "PhD in Human Rights Law, Columbia University",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=MeeraNanda"
+      },
+      "publishedAt": "2025-12-03T00:11:55.007700Z",
+      "updatedAt": "2026-02-19T00:11:55.007700Z",
+      "readingTime": 10,
+      "featuredImage": "/assets/images/photos/Gemini_Generated_Image_7yf7537yf7537yf7.png",
+      "tags": [
+        "trends",
+        "south-asia",
+        "diaspora",
+        "research",
+        "analysis"
+      ],
+      "category": "Analysis",
+      "featured": true,
+      "relatedIncidents": [
+        "INC-2024-116",
+        "INC-2024-116"
+      ],
+      "relatedArticles": [
+        "ART-022"
+      ],
+      "views": 7038,
+      "shares": 500
+    },
+    {
+      "id": "ART-006",
+      "title": "Media Bias and Hindu Representation: A Quantitative Analysis",
+      "subtitle": "How mainstream media portrays Hindu communities and issues",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This investigative study uses data analysis to reveal systematic bias in mainstream media coverage of Hindu-related incidents, comparing treatment with other religious communities.",
+      "author": {
+        "id": "AUTHOR-001",
+        "name": "Dr. Priya Sharma",
+        "credentials": "PhD in Digital Sociology, Oxford University",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=PriyaSharma"
+      },
+      "publishedAt": "2026-01-05T00:11:55.007700Z",
+      "updatedAt": "2026-02-25T00:11:55.007700Z",
+      "readingTime": 19,
+      "featuredImage": "/assets/images/photos/Gemini_Generated_Image_7yf7537yf7537yf7.png",
+      "tags": [
+        "research",
+        "analysis",
+        "south-asia"
+      ],
+      "category": "Investigative",
+      "featured": true,
+      "relatedIncidents": [
+        "INC-2024-077",
+        "INC-2024-063",
+        "INC-2024-033",
+        "INC-2024-095"
+      ],
+      "relatedArticles": [
+        "ART-001"
+      ],
+      "views": 5105,
+      "shares": 132
+    },
+    {
+      "id": "ART-007",
+      "title": "The UK's Hindu Community: Rising Hate Crimes and Policy Failures",
+      "subtitle": "Examining the surge in anti-Hindu incidents across Britain",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "A comprehensive report on the alarming increase in hate crimes targeting Hindu communities in the United Kingdom, analyzing policy gaps and law enforcement responses.",
+      "author": {
+        "id": "AUTHOR-002",
+        "name": "Rajesh Kumar",
+        "credentials": "Investigative Journalist, Former BBC Correspondent",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=RajeshKumar"
+      },
+      "publishedAt": "2025-09-22T00:11:55.007700Z",
+      "updatedAt": "2026-03-07T00:11:55.007700Z",
+      "readingTime": 8,
+      "featuredImage": "/assets/images/photos/Gemini_Generated_Image_7yf7537yf7537yf7.png",
+      "tags": [
+        "trends",
+        "diaspora",
+        "policy"
+      ],
+      "category": "News",
+      "featured": true,
+      "relatedIncidents": [
+        "INC-2024-080",
+        "INC-2024-017",
+        "INC-2024-106",
+        "INC-2024-072"
+      ],
+      "relatedArticles": [
+        "ART-030",
+        "ART-003"
+      ],
+      "views": 6262,
+      "shares": 980
+    },
+    {
+      "id": "ART-008",
+      "title": "Article Title 8: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-003",
+        "name": "Dr. Researcher C",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-003.jpg"
+      },
+      "publishedAt": "2026-02-22T00:11:55.007700Z",
+      "updatedAt": "2026-02-21T00:11:55.007700Z",
+      "readingTime": 5,
+      "featuredImage": "/mock-images/article-008-featured.jpg",
+      "tags": [
+        "analysis",
+        "south-asia",
+        "research"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-060",
+        "INC-2024-004",
+        "INC-2024-101",
+        "INC-2024-061"
+      ],
+      "relatedArticles": [
+        "ART-030",
+        "ART-023"
+      ],
+      "views": 3654,
+      "shares": 989
+    },
+    {
+      "id": "ART-009",
+      "title": "Article Title 9: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-004",
+        "name": "Dr. Researcher D",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-004.jpg"
+      },
+      "publishedAt": "2025-11-08T00:11:55.007700Z",
+      "updatedAt": "2026-02-17T00:11:55.007700Z",
+      "readingTime": 17,
+      "featuredImage": "/mock-images/article-009-featured.jpg",
+      "tags": [
+        "policy",
+        "south-asia",
+        "research",
+        "diaspora"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-081",
+        "INC-2024-089",
+        "INC-2024-036",
+        "INC-2024-058",
+        "INC-2024-097"
+      ],
+      "relatedArticles": [
+        "ART-027",
+        "ART-035"
+      ],
+      "views": 8337,
+      "shares": 238
+    },
+    {
+      "id": "ART-010",
+      "title": "Article Title 10: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-005",
+        "name": "Dr. Researcher E",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-005.jpg"
+      },
+      "publishedAt": "2025-10-28T00:11:55.007700Z",
+      "updatedAt": "2026-02-10T00:11:55.007700Z",
+      "readingTime": 8,
+      "featuredImage": "/mock-images/article-010-featured.jpg",
+      "tags": [
+        "south-asia",
+        "analysis",
+        "policy",
+        "diaspora",
+        "research"
+      ],
+      "category": "Opinion",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-036",
+        "INC-2024-059",
+        "INC-2024-027",
+        "INC-2024-087",
+        "INC-2024-013"
+      ],
+      "relatedArticles": [
+        "ART-032",
+        "ART-026"
+      ],
+      "views": 5588,
+      "shares": 560
+    },
+    {
+      "id": "ART-011",
+      "title": "Article Title 11: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-001",
+        "name": "Dr. Researcher A",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-001.jpg"
+      },
+      "publishedAt": "2025-12-13T00:11:55.007700Z",
+      "updatedAt": "2026-02-14T00:11:55.007700Z",
+      "readingTime": 16,
+      "featuredImage": "/mock-images/article-011-featured.jpg",
+      "tags": [
+        "diaspora",
+        "research",
+        "analysis"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-106",
+        "INC-2024-046",
+        "INC-2024-067"
+      ],
+      "relatedArticles": [
+        "ART-013",
+        "ART-007",
+        "ART-032"
+      ],
+      "views": 8561,
+      "shares": 561
+    },
+    {
+      "id": "ART-012",
+      "title": "Article Title 12: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-002",
+        "name": "Dr. Researcher B",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-002.jpg"
+      },
+      "publishedAt": "2026-02-11T00:11:55.007700Z",
+      "updatedAt": "2026-02-18T00:11:55.007700Z",
+      "readingTime": 14,
+      "featuredImage": "/mock-images/article-012-featured.jpg",
+      "tags": [
+        "research",
+        "south-asia",
+        "trends",
+        "policy",
+        "diaspora"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-010",
+        "INC-2024-088",
+        "INC-2024-105"
+      ],
+      "relatedArticles": [
+        "ART-007",
+        "ART-034",
+        "ART-033"
+      ],
+      "views": 6689,
+      "shares": 154
+    },
+    {
+      "id": "ART-013",
+      "title": "Article Title 13: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-003",
+        "name": "Dr. Researcher C",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-003.jpg"
+      },
+      "publishedAt": "2026-02-19T00:11:55.007700Z",
+      "updatedAt": "2026-02-24T00:11:55.007700Z",
+      "readingTime": 15,
+      "featuredImage": "/mock-images/article-013-featured.jpg",
+      "tags": [
+        "south-asia",
+        "trends",
+        "analysis"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-098",
+        "INC-2024-030",
+        "INC-2024-083",
+        "INC-2024-080",
+        "INC-2024-085"
+      ],
+      "relatedArticles": [
+        "ART-030"
+      ],
+      "views": 1617,
+      "shares": 700
+    },
+    {
+      "id": "ART-014",
+      "title": "Article Title 14: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-004",
+        "name": "Dr. Researcher D",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-004.jpg"
+      },
+      "publishedAt": "2025-09-19T00:11:55.007700Z",
+      "updatedAt": "2026-02-20T00:11:55.007700Z",
+      "readingTime": 10,
+      "featuredImage": "/mock-images/article-014-featured.jpg",
+      "tags": [
+        "trends",
+        "policy",
+        "diaspora"
+      ],
+      "category": "Opinion",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-096",
+        "INC-2024-004"
+      ],
+      "relatedArticles": [
+        "ART-015",
+        "ART-008"
+      ],
+      "views": 9559,
+      "shares": 898
+    },
+    {
+      "id": "ART-015",
+      "title": "Article Title 15: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-005",
+        "name": "Dr. Researcher E",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-005.jpg"
+      },
+      "publishedAt": "2025-10-20T00:11:55.007700Z",
+      "updatedAt": "2026-03-06T00:11:55.007700Z",
+      "readingTime": 7,
+      "featuredImage": "/mock-images/article-015-featured.jpg",
+      "tags": [
+        "south-asia",
+        "analysis",
+        "policy"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-021",
+        "INC-2024-060",
+        "INC-2024-100"
+      ],
+      "relatedArticles": [
+        "ART-019",
+        "ART-023",
+        "ART-025"
+      ],
+      "views": 8039,
+      "shares": 933
+    },
+    {
+      "id": "ART-016",
+      "title": "Article Title 16: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-001",
+        "name": "Dr. Researcher A",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-001.jpg"
+      },
+      "publishedAt": "2025-11-02T00:11:55.007700Z",
+      "updatedAt": "2026-03-08T00:11:55.007700Z",
+      "readingTime": 8,
+      "featuredImage": "/mock-images/article-016-featured.jpg",
+      "tags": [
+        "south-asia",
+        "trends",
+        "diaspora",
+        "analysis"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-080",
+        "INC-2024-094",
+        "INC-2024-103",
+        "INC-2024-022"
+      ],
+      "relatedArticles": [
+        "ART-006",
+        "ART-029",
+        "ART-026"
+      ],
+      "views": 2986,
+      "shares": 972
+    },
+    {
+      "id": "ART-017",
+      "title": "Article Title 17: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-002",
+        "name": "Dr. Researcher B",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-002.jpg"
+      },
+      "publishedAt": "2026-03-02T00:11:55.007700Z",
+      "updatedAt": "2026-03-06T00:11:55.007700Z",
+      "readingTime": 18,
+      "featuredImage": "/mock-images/article-017-featured.jpg",
+      "tags": [
+        "research",
+        "policy",
+        "south-asia"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-029",
+        "INC-2024-116",
+        "INC-2024-038",
+        "INC-2024-095",
+        "INC-2024-050"
+      ],
+      "relatedArticles": [
+        "ART-033"
+      ],
+      "views": 1970,
+      "shares": 259
+    },
+    {
+      "id": "ART-018",
+      "title": "Article Title 18: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-003",
+        "name": "Dr. Researcher C",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-003.jpg"
+      },
+      "publishedAt": "2025-10-10T00:11:55.007700Z",
+      "updatedAt": "2026-02-15T00:11:55.007700Z",
+      "readingTime": 8,
+      "featuredImage": "/mock-images/article-018-featured.jpg",
+      "tags": [
+        "south-asia",
+        "research",
+        "analysis"
+      ],
+      "category": "Analysis",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-104",
+        "INC-2024-003",
+        "INC-2024-104",
+        "INC-2024-082"
+      ],
+      "relatedArticles": [
+        "ART-003",
+        "ART-030",
+        "ART-007"
+      ],
+      "views": 8243,
+      "shares": 196
+    },
+    {
+      "id": "ART-019",
+      "title": "Article Title 19: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-004",
+        "name": "Dr. Researcher D",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-004.jpg"
+      },
+      "publishedAt": "2026-02-22T00:11:55.007700Z",
+      "updatedAt": "2026-02-20T00:11:55.007700Z",
+      "readingTime": 10,
+      "featuredImage": "/mock-images/article-019-featured.jpg",
+      "tags": [
+        "south-asia",
+        "policy",
+        "analysis",
+        "research",
+        "trends"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-117",
+        "INC-2024-098",
+        "INC-2024-031",
+        "INC-2024-116"
+      ],
+      "relatedArticles": [
+        "ART-022",
+        "ART-021"
+      ],
+      "views": 3235,
+      "shares": 560
+    },
+    {
+      "id": "ART-020",
+      "title": "Article Title 20: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-005",
+        "name": "Dr. Researcher E",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-005.jpg"
+      },
+      "publishedAt": "2025-11-19T00:11:55.007700Z",
+      "updatedAt": "2026-02-17T00:11:55.007700Z",
+      "readingTime": 17,
+      "featuredImage": "/mock-images/article-020-featured.jpg",
+      "tags": [
+        "policy",
+        "diaspora",
+        "research",
+        "trends",
+        "analysis"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-101",
+        "INC-2024-097",
+        "INC-2024-047",
+        "INC-2024-091",
+        "INC-2024-077"
+      ],
+      "relatedArticles": [
+        "ART-013",
+        "ART-022"
+      ],
+      "views": 6244,
+      "shares": 948
+    },
+    {
+      "id": "ART-021",
+      "title": "Article Title 21: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-001",
+        "name": "Dr. Researcher A",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-001.jpg"
+      },
+      "publishedAt": "2025-12-12T00:11:55.007700Z",
+      "updatedAt": "2026-02-27T00:11:55.007700Z",
+      "readingTime": 8,
+      "featuredImage": "/mock-images/article-021-featured.jpg",
+      "tags": [
+        "research",
+        "analysis",
+        "trends",
+        "south-asia"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-080",
+        "INC-2024-011",
+        "INC-2024-046",
+        "INC-2024-001"
+      ],
+      "relatedArticles": [
+        "ART-011"
+      ],
+      "views": 6776,
+      "shares": 304
+    },
+    {
+      "id": "ART-022",
+      "title": "Article Title 22: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-002",
+        "name": "Dr. Researcher B",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-002.jpg"
+      },
+      "publishedAt": "2025-11-01T00:11:55.007700Z",
+      "updatedAt": "2026-03-04T00:11:55.007700Z",
+      "readingTime": 9,
+      "featuredImage": "/mock-images/article-022-featured.jpg",
+      "tags": [
+        "south-asia",
+        "analysis",
+        "policy"
+      ],
+      "category": "Analysis",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-080",
+        "INC-2024-041",
+        "INC-2024-114",
+        "INC-2024-062"
+      ],
+      "relatedArticles": [
+        "ART-030",
+        "ART-012",
+        "ART-018"
+      ],
+      "views": 7196,
+      "shares": 845
+    },
+    {
+      "id": "ART-023",
+      "title": "Article Title 23: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-003",
+        "name": "Dr. Researcher C",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-003.jpg"
+      },
+      "publishedAt": "2025-12-11T00:11:55.007700Z",
+      "updatedAt": "2026-02-12T00:11:55.007700Z",
+      "readingTime": 16,
+      "featuredImage": "/mock-images/article-023-featured.jpg",
+      "tags": [
+        "trends",
+        "diaspora",
+        "policy",
+        "south-asia",
+        "research"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-076",
+        "INC-2024-100"
+      ],
+      "relatedArticles": [
+        "ART-005",
+        "ART-026"
+      ],
+      "views": 3756,
+      "shares": 345
+    },
+    {
+      "id": "ART-024",
+      "title": "Article Title 24: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-004",
+        "name": "Dr. Researcher D",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-004.jpg"
+      },
+      "publishedAt": "2026-02-10T00:11:55.007700Z",
+      "updatedAt": "2026-02-20T00:11:55.007700Z",
+      "readingTime": 7,
+      "featuredImage": "/mock-images/article-024-featured.jpg",
+      "tags": [
+        "south-asia",
+        "diaspora",
+        "trends",
+        "research",
+        "policy"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-109",
+        "INC-2024-016",
+        "INC-2024-011"
+      ],
+      "relatedArticles": [
+        "ART-004"
+      ],
+      "views": 8547,
+      "shares": 221
+    },
+    {
+      "id": "ART-025",
+      "title": "Article Title 25: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-005",
+        "name": "Dr. Researcher E",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-005.jpg"
+      },
+      "publishedAt": "2025-10-09T00:11:55.007700Z",
+      "updatedAt": "2026-02-18T00:11:55.007700Z",
+      "readingTime": 17,
+      "featuredImage": "/mock-images/article-025-featured.jpg",
+      "tags": [
+        "diaspora",
+        "research",
+        "analysis",
+        "trends",
+        "policy"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-030",
+        "INC-2024-035"
+      ],
+      "relatedArticles": [
+        "ART-024",
+        "ART-002",
+        "ART-021"
+      ],
+      "views": 6380,
+      "shares": 230
+    },
+    {
+      "id": "ART-026",
+      "title": "Article Title 26: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-001",
+        "name": "Dr. Researcher A",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-001.jpg"
+      },
+      "publishedAt": "2025-12-19T00:11:55.007700Z",
+      "updatedAt": "2026-02-10T00:11:55.007700Z",
+      "readingTime": 10,
+      "featuredImage": "/mock-images/article-026-featured.jpg",
+      "tags": [
+        "diaspora",
+        "analysis",
+        "trends"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-115",
+        "INC-2024-052",
+        "INC-2024-062",
+        "INC-2024-118",
+        "INC-2024-039"
+      ],
+      "relatedArticles": [
+        "ART-018"
+      ],
+      "views": 4360,
+      "shares": 313
+    },
+    {
+      "id": "ART-027",
+      "title": "Article Title 27: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-002",
+        "name": "Dr. Researcher B",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-002.jpg"
+      },
+      "publishedAt": "2026-02-12T00:11:55.007700Z",
+      "updatedAt": "2026-03-03T00:11:55.007700Z",
+      "readingTime": 14,
+      "featuredImage": "/mock-images/article-027-featured.jpg",
+      "tags": [
+        "diaspora",
+        "policy",
+        "trends",
+        "research"
+      ],
+      "category": "Opinion",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-036",
+        "INC-2024-005",
+        "INC-2024-117",
+        "INC-2024-085",
+        "INC-2024-015"
+      ],
+      "relatedArticles": [
+        "ART-032"
+      ],
+      "views": 1522,
+      "shares": 134
+    },
+    {
+      "id": "ART-028",
+      "title": "Article Title 28: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-003",
+        "name": "Dr. Researcher C",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-003.jpg"
+      },
+      "publishedAt": "2025-10-25T00:11:55.007700Z",
+      "updatedAt": "2026-02-28T00:11:55.007700Z",
+      "readingTime": 10,
+      "featuredImage": "/mock-images/article-028-featured.jpg",
+      "tags": [
+        "trends",
+        "analysis",
+        "south-asia"
+      ],
+      "category": "Opinion",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-004",
+        "INC-2024-002",
+        "INC-2024-093"
+      ],
+      "relatedArticles": [
+        "ART-034",
+        "ART-013",
+        "ART-018"
+      ],
+      "views": 9552,
+      "shares": 432
+    },
+    {
+      "id": "ART-029",
+      "title": "Article Title 29: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-004",
+        "name": "Dr. Researcher D",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-004.jpg"
+      },
+      "publishedAt": "2025-12-01T00:11:55.007700Z",
+      "updatedAt": "2026-02-06T00:11:55.007700Z",
+      "readingTime": 17,
+      "featuredImage": "/mock-images/article-029-featured.jpg",
+      "tags": [
+        "trends",
+        "policy",
+        "research"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-041",
+        "INC-2024-058",
+        "INC-2024-036"
+      ],
+      "relatedArticles": [
+        "ART-031",
+        "ART-004",
+        "ART-014"
+      ],
+      "views": 1369,
+      "shares": 133
+    },
+    {
+      "id": "ART-030",
+      "title": "Article Title 30: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-005",
+        "name": "Dr. Researcher E",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-005.jpg"
+      },
+      "publishedAt": "2025-11-11T00:11:55.007700Z",
+      "updatedAt": "2026-02-21T00:11:55.007700Z",
+      "readingTime": 18,
+      "featuredImage": "/mock-images/article-030-featured.jpg",
+      "tags": [
+        "diaspora",
+        "policy",
+        "analysis"
+      ],
+      "category": "Investigative",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-117",
+        "INC-2024-047",
+        "INC-2024-075",
+        "INC-2024-042"
+      ],
+      "relatedArticles": [
+        "ART-016",
+        "ART-004",
+        "ART-008"
+      ],
+      "views": 2373,
+      "shares": 911
+    },
+    {
+      "id": "ART-031",
+      "title": "Article Title 31: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-001",
+        "name": "Dr. Researcher A",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-001.jpg"
+      },
+      "publishedAt": "2025-09-22T00:11:55.007700Z",
+      "updatedAt": "2026-02-26T00:11:55.007700Z",
+      "readingTime": 7,
+      "featuredImage": "/mock-images/article-031-featured.jpg",
+      "tags": [
+        "research",
+        "south-asia",
+        "policy"
+      ],
+      "category": "Opinion",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-037",
+        "INC-2024-041",
+        "INC-2024-103"
+      ],
+      "relatedArticles": [
+        "ART-015",
+        "ART-017"
+      ],
+      "views": 7792,
+      "shares": 701
+    },
+    {
+      "id": "ART-032",
+      "title": "Article Title 32: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-002",
+        "name": "Dr. Researcher B",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-002.jpg"
+      },
+      "publishedAt": "2025-10-07T00:11:55.007700Z",
+      "updatedAt": "2026-03-02T00:11:55.007700Z",
+      "readingTime": 20,
+      "featuredImage": "/mock-images/article-032-featured.jpg",
+      "tags": [
+        "analysis",
+        "diaspora",
+        "trends",
+        "research"
+      ],
+      "category": "Analysis",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-070",
+        "INC-2024-106",
+        "INC-2024-018"
+      ],
+      "relatedArticles": [
+        "ART-003",
+        "ART-013"
+      ],
+      "views": 5149,
+      "shares": 292
+    },
+    {
+      "id": "ART-033",
+      "title": "Article Title 33: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-003",
+        "name": "Dr. Researcher C",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-003.jpg"
+      },
+      "publishedAt": "2026-03-04T00:11:55.007700Z",
+      "updatedAt": "2026-02-19T00:11:55.007700Z",
+      "readingTime": 8,
+      "featuredImage": "/mock-images/article-033-featured.jpg",
+      "tags": [
+        "policy",
+        "trends",
+        "analysis"
+      ],
+      "category": "Opinion",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-086",
+        "INC-2024-016",
+        "INC-2024-092",
+        "INC-2024-046",
+        "INC-2024-028"
+      ],
+      "relatedArticles": [
+        "ART-016",
+        "ART-003",
+        "ART-002"
+      ],
+      "views": 7191,
+      "shares": 749
+    },
+    {
+      "id": "ART-034",
+      "title": "Article Title 34: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-004",
+        "name": "Dr. Researcher D",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-004.jpg"
+      },
+      "publishedAt": "2026-01-01T00:11:55.007700Z",
+      "updatedAt": "2026-03-04T00:11:55.007700Z",
+      "readingTime": 17,
+      "featuredImage": "/mock-images/article-034-featured.jpg",
+      "tags": [
+        "analysis",
+        "diaspora",
+        "policy",
+        "research"
+      ],
+      "category": "News",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-006",
+        "INC-2024-084",
+        "INC-2024-106"
+      ],
+      "relatedArticles": [
+        "ART-014"
+      ],
+      "views": 1095,
+      "shares": 849
+    },
+    {
+      "id": "ART-035",
+      "title": "Article Title 35: Analysis of Recent Trends",
+      "subtitle": "A comprehensive examination of patterns and implications",
+      "content": "Full article content would go here in markdown format...",
+      "excerpt": "This article examines recent trends in anti-Hindu incidents and provides analysis of patterns.",
+      "author": {
+        "id": "AUTHOR-005",
+        "name": "Dr. Researcher E",
+        "credentials": "PhD in Sociology, University Name",
+        "bio": "Expert in religious persecution studies and hate crime analysis",
+        "avatar": "/mock-images/author-005.jpg"
+      },
+      "publishedAt": "2025-12-22T00:11:55.007700Z",
+      "updatedAt": "2026-02-20T00:11:55.007700Z",
+      "readingTime": 12,
+      "featuredImage": "/mock-images/article-035-featured.jpg",
+      "tags": [
+        "south-asia",
+        "trends",
+        "analysis",
+        "diaspora"
+      ],
+      "category": "Analysis",
+      "featured": false,
+      "relatedIncidents": [
+        "INC-2024-087",
+        "INC-2024-028",
+        "INC-2024-114",
+        "INC-2024-112",
+        "INC-2024-063"
+      ],
+      "relatedArticles": [
+        "ART-014",
+        "ART-033",
+        "ART-028"
+      ],
+      "views": 5400,
+      "shares": 768
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "global": {
+    "totalIncidents": 1686,
+    "totalRegions": 52,
+    "averageSeverity": 7.58,
+    "verifiedIncidents": 1425,
+    "pendingIncidents": 198,
+    "flaggedIncidents": 63,
+    "timePeriod": {
+      "start": "2020-01-01",
+      "end": "2024-03-08"
+    }
+  },
+  "trends": {
+    "monthly": [
+      {
+        "month": "2024-01",
+        "incidents": 38,
+        "averageSeverity": 7.1,
+        "change": 18.7
+      },
+      {
+        "month": "2024-02",
+        "incidents": 31,
+        "averageSeverity": 7.2,
+        "change": -0.6
+      },
+      {
+        "month": "2024-03",
+        "incidents": 56,
+        "averageSeverity": 6.1,
+        "change": 4.7
+      }
+    ],
+    "yearly": [
+      {
+        "year": "2020",
+        "incidents": 364,
+        "averageSeverity": 6.8,
+        "change": -1.1
+      },
+      {
+        "year": "2021",
+        "incidents": 307,
+        "averageSeverity": 6.3,
+        "change": 4.3
+      },
+      {
+        "year": "2022",
+        "incidents": 416,
+        "averageSeverity": 6.9,
+        "change": -0.8
+      },
+      {
+        "year": "2023",
+        "incidents": 500,
+        "averageSeverity": 6.0,
+        "change": -4.4
+      },
+      {
+        "year": "2024",
+        "incidents": 351,
+        "averageSeverity": 6.0,
+        "change": 2.6
+      }
+    ]
+  },
+  "byType": {
+    "Religious Persecution": 342,
+    "Civilizational Attacks": 257,
+    "Cultural Suppression": 200,
+    "Indigenous Knowledge Dismissal": 128,
+    "Political Weaponization": 257,
+    "Anti-India as Anti-Hindu Proxy": 171,
+    "Digital and Ideological Warfare": 200,
+    "Cultural Appropriation": 131
+  },
+  "byRegion": {
+    "USA": 387,
+    "Bangladesh": 342,
+    "India": 18,
+    "UK": 324,
+    "Australia": 2,
+    "Pakistan": 684,
+    "Sri Lanka": 2,
+    "Nepal": 3,
+    "Canada": 3,
+    "Malaysia": 1
+  },
+  "indexScores": {
+    "global": 8.4,
+    "byRegion": {
+      "USA": 7.4,
+      "Bangladesh": 7.9,
+      "India": 6.1,
+      "UK": 7.7,
+      "Australia": 6.6,
+      "Pakistan": 7.9,
+      "Sri Lanka": 6.4,
+      "Nepal": 6.5,
+      "Canada": 7.0,
+      "Malaysia": 6.2
+    },
+    "byTimePeriod": {
+      "2024-Q1": 6.9,
+      "2023-Q4": 6.5,
+      "2023-Q3": 6.2,
+      "2023-Q2": 6.0
+    }
+  },
+  "campaigns": {
+    "activeCampaigns": 5,
+    "totalDetected": 12,
+    "incidentsInCampaigns": 22
+  },
+  "sourceMonitoring": {
+    "sourcesTracked": 150,
+    "alertsGenerated": 45,
+    "activeMonitoring": 120
+  }
+}
