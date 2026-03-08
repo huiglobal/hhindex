@@ -36,7 +36,7 @@ function ScrollToTop() {
 function App() {
   return (
     <QueryClientProvider client={queryClient}>
-      <Router>
+      <Router basename="/hhindex">
         <ScrollToTop />
         <Suspense fallback={<LoadingFallback />}>
           <Routes>
