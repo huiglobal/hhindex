@@ -7,6 +7,7 @@ import { Button } from '../components/common/Button';
 import { Spinner } from '../components/common/Spinner';
 import { fetchRegions, fetchArticles, fetchStatistics } from '../api/mockApi';
 import type { Region, Article, Statistics } from '../types/api';
+import { getImagePath } from '../utils/assets';
 
 // Hero Section Component (Sub-task 7.2)
 function HeroSection({ statistics }: { statistics: Statistics | undefined }) {
@@ -31,7 +32,7 @@ function HeroSection({ statistics }: { statistics: Statistics | undefined }) {
       <div 
         className="fixed inset-0 opacity-60"
         style={{
-          backgroundImage: 'url(/assets/images/photos/Gemini_Generated_Image_8o861s8o861s8o86.png)',
+          backgroundImage: `url(${getImagePath('/assets/images/photos/Gemini_Generated_Image_8o861s8o861s8o86.png')})`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
@@ -434,7 +435,7 @@ export default function HomePage() {
                 <div 
                   className="absolute inset-0 rounded-xl"
                   style={{
-                    backgroundImage: 'url(/assets/images/photos/Gemini_Generated_Image_53rchl53rchl53rc.png)',
+                    backgroundImage: `url(${getImagePath('/assets/images/photos/Gemini_Generated_Image_53rchl53rchl53rc.png')})`,
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                     backgroundRepeat: 'no-repeat',

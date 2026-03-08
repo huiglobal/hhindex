@@ -27,6 +27,13 @@ import statisticsData from './mock/data/statistics.json';
 import alertsData from './mock/data/alerts.json';
 import campaignsData from './mock/data/campaigns.json';
 
+// Get base URL for asset paths
+const getAssetPath = (path: string): string => {
+  const cleanPath = path.startsWith('/') ? path.slice(1) : path;
+  const baseUrl = import.meta.env.BASE_URL;
+  return `${baseUrl}${cleanPath}`;
+};
+
 // Simulate network delay
 const delay = (ms: number = 300) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -181,6 +188,16 @@ export async function fetchArticles(
   
   let articles = articlesData.articles as Article[];
   
+  // Transform image paths to include base URL
+  articles = articles.map(article => ({
+    ...article,
+    featuredImage: article.featuredImage ? getAssetPath(article.featuredImage) : undefined,
+    author: {
+      ...article.author,
+      avatar: article.author.avatar ? getAssetPath(article.author.avatar) : undefined,
+    },
+  }));
+  
   // Apply filters
   if (filters?.category) {
     articles = articles.filter(art => art.category === filters.category);
@@ -208,7 +225,17 @@ export async function fetchArticleDetail(id: string): Promise<Article | null> {
   const articles = articlesData.articles as Article[];
   const article = articles.find(art => art.id === id);
   
-  return article || null;
+  if (!article) return null;
+  
+  // Transform image paths to include base URL
+  return {
+    ...article,
+    featuredImage: article.featuredImage ? getAssetPath(article.featuredImage) : undefined,
+    author: {
+      ...article.author,
+      avatar: article.author.avatar ? getAssetPath(article.author.avatar) : undefined,
+    },
+  };
 }
 
 export async function fetchOffenderProfile(id: string): Promise<OffenderProfile | null> {
