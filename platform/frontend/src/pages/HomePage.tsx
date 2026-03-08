@@ -796,7 +796,7 @@ export default function HomePage() {
                               key={`${segment.category}-line-${lineIndex}`}
                               x={segment.labelAnchorX}
                               y={segment.lineEndY - 18 + (lineIndex * 18)}
-                              textAnchor={segment.textAnchor}
+                              textAnchor={segment.textAnchor as any}
                               fill="#FDFAF5"
                               fontSize="16"
                               fontWeight="700"
@@ -813,7 +813,7 @@ export default function HomePage() {
                           <motion.text
                             x={segment.labelAnchorX}
                             y={segment.lineEndY - 18 + (segment.lines.length * 18) + 16}
-                            textAnchor={segment.textAnchor}
+                            textAnchor={segment.textAnchor as any}
                             fill={segment.color}
                             fontSize="13"
                             fontWeight="bold"

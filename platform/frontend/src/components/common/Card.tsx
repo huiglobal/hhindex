@@ -7,6 +7,7 @@ export interface CardProps {
   hoverable?: boolean;
   onClick?: () => void;
   className?: string;
+  style?: React.CSSProperties;
 }
 
 export function Card({
@@ -16,6 +17,7 @@ export function Card({
   hoverable = false,
   onClick,
   className = '',
+  style,
 }: CardProps) {
   const baseStyles = 'rounded-xl transition-all duration-300';
   
@@ -44,12 +46,15 @@ export function Card({
       : '0 15px 40px rgba(0, 0, 0, 0.4), 0 8px 20px rgba(0, 0, 0, 0.25)'
   };
   
+  // Merge custom style with default shadow style
+  const mergedStyle = { ...shadowStyle, ...style };
+  
   const Component = onClick ? 'button' : 'div';
   
   return (
     <Component
       className={combinedClassName}
-      style={shadowStyle}
+      style={mergedStyle}
       onClick={onClick}
       {...(onClick && { type: 'button' })}
     >
